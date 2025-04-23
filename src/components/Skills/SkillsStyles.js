@@ -85,6 +85,7 @@ export const SkillName = styled.span`
   color: var(--text);
   margin-bottom: 4px;
   display: block;
+  
 `
 
 export const ProgressBar = styled.div`

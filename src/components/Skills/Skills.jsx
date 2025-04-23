@@ -59,6 +59,7 @@ const skillIcons = {
   CSS: DiCss3,
   'Node.js': DiNodejs,
   'Express.js': SiExpress,
+  'REST API':SiPostman,
   Git: DiGit,
   Docker: DiDocker,
   Postman: SiPostman,

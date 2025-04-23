@@ -64,16 +64,7 @@ const ProjectCard = ({ project }) => {
           <FiGithub size={20} />
         </CardLink>
         
-        {project.demoLink && (
-          <CardLink 
-            href={project.demoLink}
-            target="_blank"
-            rel="noopener noreferrer"
-            aria-label="Live Demo"
-          >
-            <FiExternalLink size={20} />
-          </CardLink>
-        )}
+        
       </CardLinks>
     </Card>
   )

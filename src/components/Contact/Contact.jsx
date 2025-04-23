@@ -75,13 +75,13 @@ const Contact = () => {
                
                 
                 <ContactLink 
-                  href="https://github.com/JavaDeveloper24"
+                  href="https://github.com/Java-Developer24"
                   target="_blank"
                   rel="noopener noreferrer"
                   aria-label="GitHub"
                 >
                   <FiGithub size={20} />
-                  <span>github.com/JavaDeveloper24</span>
+                  <span>github.com/Java-Developer24</span>
                 </ContactLink>
                 
                 <ContactLink 
